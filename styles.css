@@ -3,3 +3,10 @@ button {
   background-color: blue;
   font-size: 20px;
 }
+p {
+  font-size: 21px;
+  text-decoration: dotted;
+  color: brown;
+  background-color: bisque;
+  text-align: end;
+}
